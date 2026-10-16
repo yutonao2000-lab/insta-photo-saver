@@ -1,0 +1,1 @@
+{"name":"Insta Photo Saver","short_name":"Photo Saver","description":"iPhoneで画像を選択・共有する個人用PWA","start_url":"./","scope":"./","display":"standalone","background_color":"#261a43","theme_color":"#261a43","icons":[{"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png"}]}
